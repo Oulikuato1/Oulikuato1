@@ -24,8 +24,6 @@
 | 项目 | 说明 |
 | --- | --- |
 | [ex.skill.agent-Napcat](https://github.com/Oulikuato1/ex.skill.agent-Napcat) | NapCat(OneBot v11) + 本地 BM25 倒排索引 RAG + 多模态视听流，拟真 QQ 伴侣 Agent |
-| [offset](https://github.com/Oulikuato1/offset) | Source2 引擎结构体偏移快照，同步导出 C# / C++ / Rust / JSON |
-| [mailfree1](https://github.com/Oulikuato1/mailfree1) | 临时邮箱服务，Cloudflare Workers + D1 + R2（上游 idinging/freemail） |
 
 ## 贡献
 
