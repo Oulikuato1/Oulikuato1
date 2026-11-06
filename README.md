@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oulikuato1/Oulikuato1/main/banner.svg" alt="OuliKuato" width="100%">
+  <img src="https://raw.githubusercontent.com/Oulikuato1/Oulikuato1/main/assets/banner.svg" alt="OuliKuato" width="100%">
 </p>
 
 ## 在做什么
